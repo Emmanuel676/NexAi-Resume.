@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NexResume AI",
+  "description": "A high-performance, animated AI Résumé Analyzer and Rewriter using Gemini 2.5 Flash. Features ATS scoring, job matching, and intelligent feedback.",
+  "requestFramePermissions": []
+}
